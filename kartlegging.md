@@ -1,6 +1,18 @@
-# Kartlegging – styrker og svakheter
+# Espen sin kartlegging – styrker og svakheter
 
 Oppdateres etter hvert eksamensett. Brukes til å justere ukeplanen.
+
+## Nåværende level
+
+**[ ] Level 0 – Startpunktet**
+**[ ] Level 1 – Funksjonsmester**
+**[ ] Level 2 – Derivasjonskriger**
+**[ ] Level 3 – Integrasjonsekspert**
+**[ ] Level 4 – Modellbyggeren**
+**[ ] Level 5 – Romnavigator**
+**[ ] Level 6 – Eksamensklar**
+
+Sett ✅ på nåværende level og fjern hakene på de som er passert.
 
 ---
 
