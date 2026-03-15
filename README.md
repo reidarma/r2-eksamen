@@ -88,6 +88,20 @@ R2-eksamen tester:
 
 ---
 
+## Kartlegging og eksamenssett
+
+- **[kartlegging.md](kartlegging.md)** – statusoversikt over alle emner (🔴/🟡/🟢), oppdateres etter hvert sett
+- **[eksamenssett/mal.md](eksamenssett/mal.md)** – mal for logging av hvert sett
+- Kopier malen til `eksamenssett/YYYY-vaar.md` for hvert sett som gjennomgås
+
+**Anbefalt arbeidsflyt:**
+1. Gjennomfør et eksamensett under reelle betingelser (tidsbruk, uten å slå opp)
+2. Rett og fyll inn poeng i sett-loggen
+3. Oppdater `kartlegging.md` med nye observasjoner
+4. Juster prioriteringslisten og ukeplanen deretter
+
+---
+
 ## Fremgang
 
 Oppdater checkbokser løpende. Eksamensresultat etter 15. mai.
