@@ -91,25 +91,29 @@
 
 ---
 
-## Uke 8 – Full simulering + svake emner (3.–9. mai)
+## Uke 8 – Eksamensett + svake emner (3.–9. mai)
 
-- [ ] **Søn 3. mai** – Gjennomfør eksamensett 2021 vår som simulert eksamen (Del 1 + Del 2 sammenhengende). Rett grundig.
-- [ ] **Man 4. mai** – Fordyp deg i svakeste emne (se kartlegging.md).
-- [ ] **Tir 5. mai** – Fordyp deg i nest svakeste emne.
-- [ ] **Ons 6. mai** – Gjennomfør eksamensett 2020 vår Del 1. Tidspress – 2 timer.
-- [ ] **Tor 7. mai** – Gjennomfør eksamensett 2020 vår Del 2. Rett og noter.
-- [ ] **Fre 8. mai** – Gjennomgå alle emner med rødt/gult i kartlegging.md.
-- [ ] **Lør 9. mai** – Øv spesifikt på Del 1-oppgaver (uten hjelpemidler) – 20 oppgaver.
+> Alt pensum er dekket. Nå handler det om å avsløre og tette hull.
+
+- [ ] **Søn 3. mai** – Gjennomfør eksamensett 2021 vår som simulert eksamen (Del 1 + Del 2 sammenhengende, under tidsbetingelser). Rett grundig. Oppdater `kartlegging.md`.
+- [ ] **Man 4. mai** – Gå i dybden på svakeste emne (se 🔴 i kartlegging.md). Sinus R2 + eksamensoppgaver på det emnet.
+- [ ] **Tir 5. mai** – Gjennomfør eksamensett 2020 vår Del 1 (2 timer, ingen hjelpemidler). Rett, noter feil.
+- [ ] **Ons 6. mai** – Gjennomfør eksamensett 2020 vår Del 2 (3 timer). Rett, oppdater kartlegging.
+- [ ] **Tor 7. mai** – Fordyp deg i nest svakeste emne. Eksamensoppgaver målrettet mot det.
+- [ ] **Fre 8. mai** – Gjennomfør eksamensett 2019 vår Del 1. Rett og tidsanalyse (klarte du å fullføre i tid?).
+- [ ] **Lør 9. mai** – Gjennomfør eksamensett 2019 vår Del 2. Rett og oppdater kartlegging.
 
 ---
 
-## Uke 9 – Siste forberedelse (10.–14. mai)
+## Uke 9 – Eksamensett + siste finpuss (10.–14. mai)
 
-- [ ] **Søn 10. mai** – Gjennomfør eksamensett 2019 vår som siste simulering. Rett og se mønster.
-- [ ] **Man 11. mai** – Gå gjennom alle formler og standardprosedyrer. Lag egne formelnotater.
-- [ ] **Tir 12. mai** – Kun Del 1-trening. 10 oppgaver tidsbestemt. Forklar hvert svar.
-- [ ] **Ons 13. mai** – Lett repetisjon. Gå gjennom egne feiloppgaver fra hele perioden. Ikke nytt stoff.
-- [ ] **Tor 14. mai** – Forbered utstyr (kalkulator, blyant, linjal). Les gjennom egne notater. Hvil. Legg deg tidlig.
+> Ingen nytt stoff. Kun konsolidering, teknikk og selvtillit.
+
+- [ ] **Søn 10. mai** – Gjennomfør eksamensett 2022 vår som siste fulle simulering. Rett grundig.
+- [ ] **Man 11. mai** – Gå gjennom alle emner med 🔴/🟡 i kartlegging.md. Gjør 2–3 oppgaver per emne.
+- [ ] **Tir 12. mai** – Del 1-sprint: 15 oppgaver tidsbestemt (maks 8 min per oppgave). Forklar hvert svar.
+- [ ] **Ons 13. mai** – Gå gjennom egne feiloppgaver fra hele perioden. Lag eget formelark. Ikke nytt stoff.
+- [ ] **Tor 14. mai** – Forbered utstyr (kalkulator, blyant, linjal, formelark). Les gjennom egne notater. Hvil. Legg deg tidlig.
 
 ---
 

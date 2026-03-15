@@ -22,49 +22,49 @@ R2-eksamen tester:
 
 ## Ukeplan (9 uker)
 
+> **Prinsipp:** Alt pensum dekkes innen uke 7 (2. mai). Uke 8–9 er forbeholdt eksamensett og målrettet arbeid med svake emner.
+
 ### Uke 1–2 (15.–29. mars): Funksjoner og algebra
 - [ ] Polynomfunksjoner, rasjonale funksjoner
 - [ ] Eksponential- og logaritmefunksjoner
 - [ ] Løse likninger og ulikheter
 - [ ] Øvingsoppgaver fra tidligere eksamener
-- **Ressurs:** Kikora / NDLA matematikk R2
+- **Ressurs:** Sinus R2 kap. 1 / NDLA R2
 
 ### Uke 3–4 (30. mars–12. april): Derivasjon
 - [ ] Derivasjonsregler (produkt, kvotient, kjerneregel)
 - [ ] Monotoni, ekstremalpunkter, vendepunkter
 - [ ] Optimeringsoppgaver
 - [ ] Andrederiverte og krumning
-- **Ressurs:** Eksamensoppgaver 2019–2024 del 1
+- **Ressurs:** Sinus R2 kap. 2
 
 ### Uke 5 (13.–19. april): Integrasjon
 - [ ] Ubestemte integraler og integrasjonsregler
-- [ ] Bestemte integraler
-- [ ] Areal mellom kurver
-- [ ] Volum ved rotasjon
+- [ ] Bestemte integraler, areal mellom kurver, volum ved rotasjon
 - [ ] Integrasjon ved substitusjon og delbrøkoppspalting
+- **Ressurs:** Sinus R2 kap. 3
 
 ### Uke 6 (20.–26. april): Differensiallikninger + Rekker/Følger
-- [ ] Separable differensiallikninger
-- [ ] Lineære 1. ordens differensiallikninger
-- [ ] Aritmetiske og geometriske følger og rekker
-- [ ] Konvergens/divergens
+- [ ] Separable og lineære 1. ordens differensiallikninger
+- [ ] Aritmetiske og geometriske følger og rekker, konvergens
+- **Ressurs:** Sinus R2 kap. 4 og 5
 
-### Uke 7 (27. april–3. mai): Vektorer
-- [ ] Vektorer i 2D og 3D
-- [ ] Skalarprodukt og vinkel mellom vektorer
-- [ ] Kryssprodukt og areal/volum
+### Uke 7 (27. april–2. mai): Vektorer + Sannsynlighet ← **PENSUM FERDIG**
+- [ ] Vektorer i 2D og 3D, skalarprodukt, kryssprodukt
 - [ ] Linjer og plan på parameterform og normalform
+- [ ] Kombinatorikk, binomialfordeling, normalfordeling
+- **Ressurs:** Sinus R2 kap. 6 og 7
 
-### Uke 8 (4.–10. mai): Sannsynlighet + Del 2-trening
-- [ ] Kombinatorikk (permutasjoner, kombinasjoner)
-- [ ] Binomialfordeling
-- [ ] Normalfordeling og standardisering
-- [ ] Gjennomgang av typiske Del 2-oppgaver (CAS/GeoGebra)
+### Uke 8 (3.–9. mai): Eksamensett + svake emner
+- [ ] Gjennomfør 2–3 komplette eksamensett under tidsbetingelser
+- [ ] Rett grundig, oppdater `kartlegging.md`
+- [ ] Fordyp deg i emner markert 🔴/🟡 i kartleggingen
+- [ ] Øv spesifikt på Del 1 (uten hjelpemidler)
 
-### Uke 9 (11.–14. mai): Eksamensforberedelse
-- [ ] Gjennomgang av egne svakheter
-- [ ] Simuler eksamen under tidsbetingelser
-- [ ] Repetisjon av formler og standardprosedyrer
+### Uke 9 (10.–14. mai): Eksamensett + siste finpuss
+- [ ] 1–2 eksamensett til, fokus på timing og teknikk
+- [ ] Kun repetisjon av kjente svakheter – ikke nytt stoff
+- [ ] Gjennomgå egne formelnotater
 - [ ] Hvile og forberedelse dagen før
 
 ---
