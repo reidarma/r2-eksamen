@@ -165,7 +165,7 @@ Se **[daglig-plan.md](daglig-plan.md)** for dag-til-dag sjekkliste.
 |--------|-------------|
 | **Sinus R2** | Primærkilde for teori og grunnoppgaver |
 | [NDLA R2](https://ndla.no/subject:1:3b9ff18e-f4c8-4d55-8823-97879aeac1e6) | Gratis videoer og oppgaver per emne |
-| [Eksamensoppgaver](https://matematikk.org/side/Eksamensoppgaver_R2) | Alle tidligere sett med fasit |
+| [Eksamensoppgaver + løsningsforslag (NDLA)](https://ndla.no/r/matematikk-r2/eksamensoppgaver-og-losninger-i-r2/a9b4413421) | Alle tidligere sett med fasit |
 | [GeoGebra CAS](https://geogebra.org/cas) | Øv Del 2-teknikk |
 | [Kikora](https://kikora.no) | Adaptive øvingsoppgaver |
 

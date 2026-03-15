@@ -209,4 +209,4 @@
 | 2020 vår | | eksamenssett/2020-vaar.md |
 | 2019 vår | | eksamenssett/2019-vaar.md |
 
-Eksamensoppgaver: https://matematikk.org/side/Eksamensoppgaver_R2
+Eksamensoppgaver + løsningsforslag: https://ndla.no/r/matematikk-r2/eksamensoppgaver-og-losninger-i-r2/a9b4413421
