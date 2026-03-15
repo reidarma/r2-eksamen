@@ -80,11 +80,27 @@ R2-eksamen tester:
 
 | Ressurs | Lenke |
 |--------|-------|
+| **Sinus R2** (primærbok) | Se kapitteloversikt nedenfor |
 | NDLA R2 | https://ndla.no/subject:1:3b9ff18e-f4c8-4d55-8823-97879aeac1e6 |
 | Matematikk.org | https://matematikk.org |
 | Eksamensoppgaver | https://matematikk.org/side/Eksamensoppgaver_R2 |
 | Kikora | https://kikora.no |
 | GeoGebra | https://geogebra.org |
+
+### Sinus R2 – kapitteloversikt
+
+| Kapittel | Emne |
+|----------|------|
+| 1 | Funksjoner |
+| 2 | Derivasjon |
+| 3 | Integrasjon |
+| 4 | Differensiallikninger |
+| 5 | Rekker og følger |
+| 6 | Vektorer |
+| 7 | Sannsynlighet og statistikk |
+
+**Bruk Sinus R2 til:** teori og grunnleggende oppgaver når eksamenssett er for vanskelig.
+**Arbeidsflyt:** eksamensoppgave avslører hull → les relevant kapittel i Sinus → gjør oppgaver fra det kapittelet → tilbake til eksamenssett.
 
 ---
 
