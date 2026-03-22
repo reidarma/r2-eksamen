@@ -16,8 +16,8 @@
 - [ ] **Søn 15. mars** – Gjennomfør eksamensett 2024 vår under tidsbetingelser (Del 1: 2t, Del 2: 3t). Ikke slå opp. Fyll inn `eksamenssett/2024-vaar.md`. Oppdater `kartlegging.md`.
 - [ ] **Man 16. mars** – Gå gjennom fasit 2024 vår grundig. Forstå *hvorfor* hvert svar er riktig. Ikke bare se hva du fikk feil – forstå metoden.
 - [ ] **Tir 17. mars** – Polynomfunksjoner: nullpunkter, faktorisering, polynomdivisjon. Sinus R2 kap. 1 + øvingsoppgaver.
-- [ ] **Ons 18. mars** – Rasjonale funksjoner: asymptoter, definisjonsområde, skisser. Øvingsoppgaver.
-- [ ] **Tor 19. mars** – Eksponential- og logaritmefunksjoner. Regler, løse likninger. *Husk: øret ditt hører logaritmisk – desibel-skalaen er ln(x). Naturen bruker dette overalt.*
+- [ ] **Ons 18. mars** – Rasjonale funksjoner: asymptoter, definisjonsområde, skisser. Sinus R2 kap. 1 + øvingsoppgaver.
+- [ ] **Tor 19. mars** – Eksponential- og logaritmefunksjoner. Regler, løse likninger. Sinus R2 kap. 1. *Husk: øret ditt hører logaritmisk – desibel-skalaen er ln(x). Naturen bruker dette overalt.*
 - [ ] **Fre 20. mars** – Plukk ut funksjonsoppgaver fra 2–3 tidligere eksamenssett. Gjør dem. Forklar fremgangsmåten høyt.
 - [ ] **Lør 21. mars** – Gjennomfør eksamensett 2023 høst Del 1 (uten hjelpemidler, 2 timer). Rett og noter.
 
@@ -31,10 +31,10 @@
 
 - [ ] **Søn 22. mars** – Gjennomfør eksamensett 2023 høst Del 2 (med hjelpemidler, 3 timer). Oppdater kartlegging.
 - [ ] **Man 23. mars** – Derivasjonsregler: potens, sum, konstant. Sinus R2 kap. 2. Gjør 10 oppgaver.
-- [ ] **Tir 24. mars** – Produktregelen og kvotientregelen. Øvingsoppgaver. Disse to reglene er eksamensfavoritter.
-- [ ] **Ons 25. mars** – Kjerneregelen. Sammensatte funksjoner. *Dette er den viktigste derivasjonsregelen. Bruk tid her.*
-- [ ] **Tor 26. mars** – Monotoni og ekstremalpunkter. Fortegnsskjema for f'(x). Tegn grafer fra bunnen av.
-- [ ] **Fre 27. mars** – Andrederiverte, vendepunkter, krumning.
+- [ ] **Tir 24. mars** – Produktregelen og kvotientregelen. Sinus R2 kap. 2 + øvingsoppgaver. Disse to reglene er eksamensfavoritter.
+- [ ] **Ons 25. mars** – Kjerneregelen. Sammensatte funksjoner. Sinus R2 kap. 2. *Dette er den viktigste derivasjonsregelen. Bruk tid her.*
+- [ ] **Tor 26. mars** – Monotoni og ekstremalpunkter. Fortegnsskjema for f'(x). Tegn grafer fra bunnen av. Sinus R2 kap. 2.
+- [ ] **Fre 27. mars** – Andrederiverte, vendepunkter, krumning. Sinus R2 kap. 2.
 - [ ] **Lør 28. mars** – Eksamensoppgaver derivasjon fra tidligere sett. Oppdater kartlegging.
 
 > **Level 1 unlocked** når du klarer å løse en funksjonsoppgave fra Del 1 uten å
@@ -53,8 +53,8 @@
 
 - [ ] **Søn 29. mars** – Gjennomfør eksamensett 2023 vår Del 1. Rett og noter.
 - [ ] **Man 30. mars** – Optimeringsproblemer: sett opp funksjon fra tekstoppgave, deriver, finn ekstremum. Sinus R2 kap. 2.
-- [ ] **Tir 31. mars** – Optimering del 2 – geometri: areal, volum, innpakningsproblemer. Gjør minst 5 oppgaver.
-- [ ] **Ons 1. april** – Derivasjon av eksponential og logaritme: (e^x)' = e^x, (ln x)' = 1/x. Disse er eksamenssikre.
+- [ ] **Tir 31. mars** – Optimering del 2 – geometri: areal, volum, innpakningsproblemer. Sinus R2 kap. 2. Gjør minst 5 oppgaver.
+- [ ] **Ons 1. april** – Derivasjon av eksponential og logaritme: (e^x)' = e^x, (ln x)' = 1/x. Sinus R2 kap. 2. Disse er eksamenssikre.
 - [ ] **Tor 2. april** – Gjennomfør eksamensett 2023 vår Del 2. Oppdater kartlegging.
 - [ ] **Fre 3. april** – Fasit 2023 vår. Fokus på Del 2-teknikk: bruk GeoGebra CAS til å sjekke svar.
 - [ ] **Lør 4. april** – Repetisjon derivasjon: 10 oppgaver fra ulike sett. Forklar hvert steg skriftlig – tvinger deg til å forstå, ikke bare gjøre.
@@ -75,10 +75,10 @@
 
 - [ ] **Søn 5. april** – Gjennomfør eksamensett 2022 høst Del 1. Rett og noter.
 - [ ] **Man 6. april** – Ubestemte integraler: potensregelen, sum, konstant. Sinus R2 kap. 3. Drill grunnreglene.
-- [ ] **Tir 7. april** – Bestemte integraler: arealtolkning, regning. Forstå sammenhengen mellom integral og areal.
-- [ ] **Ons 8. april** – Areal mellom to kurver. Finn skjæringspunkter, sett opp integralet riktig. Vanlig eksamensfeil: feil fortegn.
-- [ ] **Tor 9. april** – Volum ved rotasjon rundt x-aksen (Disk-metoden). *Hvis du roterer en kurve rundt en akse, kan du beregne volumet av den tredimensjonale figuren – skikkelig kult.*
-- [ ] **Fre 10. april** – Integrasjon ved substitusjon. Den vanskeligste integrasjonsteknikken – gi den tid.
+- [ ] **Tir 7. april** – Bestemte integraler: arealtolkning, regning. Sinus R2 kap. 3. Forstå sammenhengen mellom integral og areal.
+- [ ] **Ons 8. april** – Areal mellom to kurver. Finn skjæringspunkter, sett opp integralet riktig. Sinus R2 kap. 3. Vanlig eksamensfeil: feil fortegn.
+- [ ] **Tor 9. april** – Volum ved rotasjon rundt x-aksen (Disk-metoden). Sinus R2 kap. 3. *Hvis du roterer en kurve rundt en akse, kan du beregne volumet av den tredimensjonale figuren – skikkelig kult.*
+- [ ] **Fre 10. april** – Integrasjon ved substitusjon. Sinus R2 kap. 3. Den vanskeligste integrasjonsteknikken – gi den tid.
 - [ ] **Lør 11. april** – Gjennomfør eksamensett 2022 høst Del 2. Oppdater kartlegging.
 
 ---
@@ -93,9 +93,9 @@
 > Forstår du én differensiallikning, forstår du mange fenomener i naturen på én gang.
 
 - [ ] **Søn 12. april** – Gå gjennom fasit 2022 høst. Fokus på integrasjonsoppgaver du ikke fikk til.
-- [ ] **Man 13. april** – Delbrøkoppspalting. Krevende, men dukker opp. Gjør noen oppgaver fra Sinus R2.
-- [ ] **Tir 14. april** – Separable differensiallikninger: skill variabler, integrer begge sider. Øv på å kjenne igjen typen.
-- [ ] **Ons 15. april** – Lineære 1. ordens differensiallikninger (integrerende faktor). Lær metoden steg for steg.
+- [ ] **Man 13. april** – Delbrøkoppspalting. Krevende, men dukker opp. Sinus R2 kap. 4 + øvingsoppgaver.
+- [ ] **Tir 14. april** – Separable differensiallikninger: skill variabler, integrer begge sider. Sinus R2 kap. 4. Øv på å kjenne igjen typen.
+- [ ] **Ons 15. april** – Lineære 1. ordens differensiallikninger (integrerende faktor). Sinus R2 kap. 4. Lær metoden steg for steg.
 - [ ] **Tor 16. april** – Eksamensoppgaver differensiallikninger fra tidligere sett. Minst 5 oppgaver.
 - [ ] **Fre 17. april** – Gjennomfør eksamensett 2022 vår Del 1. Rett og noter.
 - [ ] **Lør 18. april** – Gjennomfør eksamensett 2022 vår Del 2. Oppdater kartlegging.
@@ -114,11 +114,11 @@
 > Uke 6 introduserer også vektorer – navigasjonens språk.
 
 - [ ] **Søn 19. april** – Aritmetiske følger og rekker: formel for ledd og sum. Sinus R2 kap. 5.
-- [ ] **Man 20. april** – Geometriske følger og rekker: formel, konvergens, uendelig sum. *Øv på å avgjøre om en rekke konvergerer.*
+- [ ] **Man 20. april** – Geometriske følger og rekker: formel, konvergens, uendelig sum. Sinus R2 kap. 5. *Øv på å avgjøre om en rekke konvergerer.*
 - [ ] **Tir 21. april** – Eksamensoppgaver rekker/følger fra tidligere sett. Vanlig oppgavetype: innskudd i bank over tid.
 - [ ] **Ons 22. april** – Vektorer i 2D og 3D: addisjon, skalering, lengde. Sinus R2 kap. 6. *GPS bruker vektorer – telefonen din løser dette i sanntid.*
-- [ ] **Tor 23. april** – Skalarprodukt, vinkel mellom vektorer, ortogonalitet.
-- [ ] **Fre 24. april** – Kryssprodukt, areal av parallellogram, volum av parallelepiped.
+- [ ] **Tor 23. april** – Skalarprodukt, vinkel mellom vektorer, ortogonalitet. Sinus R2 kap. 6.
+- [ ] **Fre 24. april** – Kryssprodukt, areal av parallellogram, volum av parallelepiped. Sinus R2 kap. 6.
 - [ ] **Lør 25. april** – Gjennomfør eksamensett 2021 høst Del 1. Rett og noter.
 
 ---
@@ -134,11 +134,11 @@
 > alt følger normalfordelingen. Det er universets favorittform.
 
 - [ ] **Søn 26. april** – Gjennomfør eksamensett 2021 høst Del 2. Oppdater kartlegging.
-- [ ] **Man 27. april** – Linjer på parameterform. Finn skjæringspunkt mellom linjer, avstand fra punkt til linje.
-- [ ] **Tir 28. april** – Plan på normalform. Avstand fra punkt til plan. *Arkitekter og spillutviklere bruker dette daglig.*
+- [ ] **Man 27. april** – Linjer på parameterform. Finn skjæringspunkt mellom linjer, avstand fra punkt til linje. Sinus R2 kap. 6.
+- [ ] **Tir 28. april** – Plan på normalform. Avstand fra punkt til plan. Sinus R2 kap. 6. *Arkitekter og spillutviklere bruker dette daglig.*
 - [ ] **Ons 29. april** – Kombinatorikk: permutasjoner, kombinasjoner, binomialkoeffisienter. Sinus R2 kap. 7.
-- [ ] **Tor 30. april** – Binomialfordeling: P(X=k), forventningsverdi, standardavvik. Typisk oppgave: myntkast, skudd mot mål.
-- [ ] **Fre 1. mai** – Normalfordeling: standardisering, z-verdi, bruk av tabell og GeoGebra. *Forstår du normalfordelingen, forstår du statistikk.*
+- [ ] **Tor 30. april** – Binomialfordeling: P(X=k), forventningsverdi, standardavvik. Sinus R2 kap. 7. Typisk oppgave: myntkast, skudd mot mål.
+- [ ] **Fre 1. mai** – Normalfordeling: standardisering, z-verdi, bruk av tabell og GeoGebra. Sinus R2 kap. 7. *Forstår du normalfordelingen, forstår du statistikk.*
 - [ ] **Lør 2. mai** – Eksamensoppgaver sannsynlighet fra tidligere sett. Oppdater kartlegging.
 
 > **Level 5 + Level 6 unlocked. Hele pensum er dekket.**
